@@ -1,0 +1,8 @@
+A001 adicionar prateleira1
+B002 adicionar prateleira2
+A001 remover prateleira1
+C003 adicionar prateleira3
+B002 remover prateleira2
+C003 remover prateleira3
+D004 adicionar prateleira4
+0
